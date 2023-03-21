@@ -5,3 +5,6 @@ ssh-add ~/.ssh/...
 меню справа вверху, Settings, ssh and gpg keys
 
 git clone 
+
+git branch ...  : создать
+git checkout ... : переключить
